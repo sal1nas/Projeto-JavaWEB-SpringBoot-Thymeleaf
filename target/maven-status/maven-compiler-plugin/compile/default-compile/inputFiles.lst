@@ -1,0 +1,15 @@
+/home/pedro/eclipse-workspace/brewer/src/main/java/controller/ClientesController.java
+/home/pedro/eclipse-workspace/brewer/src/main/java/controller/CidadesController.java
+/home/pedro/eclipse-workspace/brewer/src/main/java/model/Estilo.java
+/home/pedro/eclipse-workspace/brewer/src/main/java/model/Origem.java
+/home/pedro/eclipse-workspace/brewer/src/main/java/controller/CervejasController.java
+/home/pedro/eclipse-workspace/brewer/src/main/java/model/Sabor.java
+/home/pedro/eclipse-workspace/brewer/src/main/java/controller/UsuarioController.java
+/home/pedro/eclipse-workspace/brewer/src/main/java/config/AppInitializer.java
+/home/pedro/eclipse-workspace/brewer/src/main/java/config/WebConfig.java
+/home/pedro/eclipse-workspace/brewer/src/main/java/model/Cliente.java
+/home/pedro/eclipse-workspace/brewer/src/main/java/model/Cerveja.java
+/home/pedro/eclipse-workspace/brewer/src/main/java/model/Usuario.java
+/home/pedro/eclipse-workspace/brewer/src/main/java/controller/EstiloController.java
+/home/pedro/eclipse-workspace/brewer/src/main/java/config/JPAConfig.java
+/home/pedro/eclipse-workspace/brewer/src/main/java/repository/Cervejas.java

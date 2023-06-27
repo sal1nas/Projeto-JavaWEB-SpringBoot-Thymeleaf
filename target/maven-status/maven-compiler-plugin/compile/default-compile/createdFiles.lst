@@ -1,0 +1,15 @@
+config/WebConfig.class
+model/Cliente.class
+config/AppInitializer.class
+repository/Cervejas.class
+controller/ClientesController.class
+model/Usuario.class
+controller/EstiloController.class
+config/JPAConfig.class
+model/Cerveja.class
+controller/UsuarioController.class
+model/Sabor.class
+controller/CervejasController.class
+model/Estilo.class
+controller/CidadesController.class
+model/Origem.class
